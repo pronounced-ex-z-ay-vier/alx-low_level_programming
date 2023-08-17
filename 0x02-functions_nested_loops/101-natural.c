@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/**
+ * main - program that computes and prints sum of multiples
+ * Return: 0
+ */
+
 int main(void)
 {
 	int sum = 0;
