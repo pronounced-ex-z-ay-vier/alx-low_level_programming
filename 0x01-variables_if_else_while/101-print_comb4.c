@@ -4,7 +4,7 @@
 
 /**
  * main - Function entry point
- * return: Always 0 (success)
+ * Return: Always 0
  */
 
 int main(void)
@@ -31,5 +31,6 @@ int main(void)
 		}
 	}
 	putchar('\n');
+
 	return (0);
 }
