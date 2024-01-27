@@ -2,10 +2,11 @@
 #include <stdio.h>
 
 /**
- * int_index - This searches for an int
+ * int_index - This searches for an integer
  * @array: The array to search from
  * @size: The size of the array
  * @cmp: Function pointers
+ * Return: matched character index
  */
 
 int int_index(int *array, int size, int (*cmp)(int))
