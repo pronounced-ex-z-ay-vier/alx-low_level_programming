@@ -8,7 +8,6 @@
  * @cmp: Function pointers
  */
 
-
 int int_index(int *array, int size, int (*cmp)(int))
 {
 	int i;
